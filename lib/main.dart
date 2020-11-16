@@ -26,7 +26,7 @@ final String title;
 class _MyHomePageState extends State<MyHomePage> {
 final GlobalKey<AnimatedListState> _listKey = GlobalKey();
   List<String> _data = [];
-  static const String BOT_URL = "https://kangdemobot.herokuapp.com"; // replace with server address
+  static const String BOT_URL = "https://kangdemobot.herokuapp.com/bot"; // replace with server address
   TextEditingController _queryController = TextEditingController();
 @override
   Widget build(BuildContext context) {
