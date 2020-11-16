@@ -32,7 +32,6 @@ mistune==0.8.4
 nbconvert==5.6.1
 nbformat==5.0.7
 notebook==6.1.1
-numpy @ file:///opt/concourse/worker/volumes/live/40d975a3-7e82-44c8-53df-feccdbce8b96/volume/numpy_and_numpy_base_1596233859108/work
 packaging==20.4
 pandocfilters==1.4.2
 parso==0.7.1
@@ -44,7 +43,6 @@ ptyprocess==0.6.0
 pycparser==2.20
 pygame==1.9.6
 Pygments==2.6.1
-pylint @ file:///opt/concourse/worker/volumes/live/42ede439-2571-4cb2-513c-394625d2381b/volume/pylint_1592496039330/work
 pyparsing==2.4.7
 pyrsistent==0.16.0
 python-dateutil==2.8.1
@@ -55,7 +53,6 @@ Send2Trash==1.5.0
 six==1.15.0
 terminado==0.8.3
 testpath==0.4.4
-toml @ file:///tmp/build/80754af9/toml_1592853716807/work
 tornado==6.0.4
 traitlets==4.3.3
 typed-ast==1.4.1
