@@ -1,6 +1,5 @@
 appnope==0.1.0
 argon2-cffi==20.1.0
-astroid @ file:///opt/concourse/worker/volumes/live/b22b518b-f584-4586-5ee9-55bfa4fca96e/volume/astroid_1592495912194/work
 attrs==19.3.0
 backcall==0.2.0
 bleach==3.1.5
