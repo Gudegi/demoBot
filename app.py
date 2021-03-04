@@ -6,7 +6,7 @@ app = Flask(__name__)
 @app.route("/", methods = ["POST"])
 def response():
     query = dict(request.form)['query']
-    res = query + "" + time.ctime()
+    res = '안녕하세요? '+query + "" + time.ctime()
     return jsonify({"response" : res})
 
 
